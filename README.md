@@ -1,59 +1,67 @@
-<h1 align="center">Hey there! I'm a Full-Stack Developer 👋</h1>
+<h1 align="center">Welcome to my GitHub 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding gif" />
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/main/dino.gif" width="300" alt="Dino coding gif" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-Hi! I'm a passionate Full-Stack Developer who started programming at the age of 15. I'm currently focused on building modern, responsive, and scalable applications using tools like **Node.js** and **Angular**.
+From a young age, I’ve been passionate about technology and how things work behind the screen. That curiosity naturally evolved into a strong foundation in programming—and even though I'm still young, I've already built a solid path as a **Full-Stack Developer**.
 
-I enjoy learning, solving real-world problems, and creating clean, maintainable code. If there's something I don't know yet, I'm always ready to dive in and learn it.
+I specialize in crafting clean, scalable, and responsive applications using modern web technologies. Whether it’s building RESTful APIs, designing user-friendly interfaces, or integrating third-party tools, I take pride in delivering thoughtful solutions that work.
+
+Besides coding, I’m deeply interested in systems, cybersecurity, and how to make applications both efficient and secure. I strongly believe in continuous learning, and I'm always open to diving into new challenges or technologies.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Backend
-- **Node.js** with **TypeScript**
-- REST APIs
+- **Node.js** + **TypeScript**
+- **Spring Boot** with **Java**
+- REST API design
 - MySQL & PostgreSQL
 
 ### 🌐 Frontend
-- **Angular** with **TypeScript**
+- **Angular** + **TypeScript**
 - Tailwind CSS
 - Reactive Forms
-- Responsive UI Components
+- Responsive and dynamic UI
 
-### ⚙️ Tools & Others
-- Git & GitHub
-- Docker (basic)
-- Postman
-- JWT Auth
-- Multer for file uploads
-- SweetAlert & custom modals
-- LocalStorage & offline handling
+### 🧰 Others
+- **Python** (scripting, automation)
+- Docker (basic containerization)
+- JWT Authentication
+- File upload with Multer
+- LocalStorage & offline strategies
+- Git & GitHub for version control
+
+### 🔒 Interests
+- Linux fundamentals
+- Basic cybersecurity principles (network, access, hardening)
+- Secure API development
 
 ---
 
 ## 🌍 Languages
 
-- 🇪🇸 **Spanish**: Native
-- 🇺🇸 **English**: Almost conversational, improving every day 💪
+- 🇪🇸 **Spanish**: Native speaker  
+- 🇺🇸 **English**: Almost conversational (actively improving)
 
 ---
 
-## 🧩 How I Work
+## 💬 Mindset
 
-- 💡 I focus on writing clean, reusable code
-- 🧠 I understand the power of strong architecture and design patterns (OOP)
-- 🔄 I'm always open to learning whatever tool, framework, or technique a project needs
+- 💡 Focused on clean, maintainable code
+- 🧠 Strong believer in OOP and software design principles
+- 🔍 I love debugging and understanding "why" something works (or doesn't)
+- 🚀 Always willing to learn whatever the project requires
 
 ---
 
 ## 📫 Let's Connect
 
-Feel free to reach out or explore my repositories. I'm always open to collaborating or learning from others!
-
+Check out my pinned repositories below!  
+If you'd like to collaborate or discuss ideas, feel free to reach out.
