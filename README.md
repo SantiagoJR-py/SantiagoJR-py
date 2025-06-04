@@ -63,5 +63,11 @@ Besides coding, I’m deeply interested in systems, cybersecurity, and how to ma
 
 ## 📫 Let's Connect
 
-Check out my pinned repositories below!  
-If you'd like to collaborate or discuss ideas, feel free to reach out.
+If you'd like to collaborate, share ideas, or just say hi — feel free to reach out!
+
+- 📧 **Email**: [santiago.jr.dev@gmail.com](mailto:santiago.jr.dev@gmail.com)  
+- 📱 **Phone / WhatsApp**: +57 311 868 2172
+
+---
+
+_Thanks for stopping by!_
